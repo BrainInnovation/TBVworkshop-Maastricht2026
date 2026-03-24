@@ -3,24 +3,34 @@
 
 Welcome to the TBV workshop page!<br> Here you will find information about the workshop and useful links to participate in our hands-on sessions.
 
-For Windows users, we provide the TBV Educational version at this link: [TBVEDU Windows link](https://download.brainvoyager.com/tbv/setup_tbvedu-v4.4.8_win-x64.exe).
-For MacOS (ARM) users, we provide the TBV Educational version at this link: [TBVEDU MacOS link](https://download.brainvoyager.com/tbv/setup_tbvedu-v4.4.8_win-x64.exe).
-If you don't have a Windows laptop, please team up with another participant of the workshop or ask one of our colleague if there is still a laptop available.
+We will provide the TBV Educational version for the hands-on session on site.
+If you don't have a laptop, please team up with another participant of the workshop or ask one of our colleague if there is still a laptop available.
 
 Please install Turbo-BrainVoyager EDU to participate actively in the hands-on session!
 
-There will be two hands-on session. On day one of the workshop, we provide a series of excercise to get familiar with the software functionalities from entry level to more advaced fMRI analysis methods
+There will be two hands-on sessions. On the first day of the workshop, we will propose a series of exercises designed to get familiar with the software, progressing from basic functionalities to more advanced fMRI analysis methods. On the second day, you may choose either to explore the fMRI data simulation tool integrated into TBV or to learn how to interact with TBV via the Python Network Interface in order to develop custom neurofeedback designs.
 
-**Please don't hesitate to ask questions about the exercise or general questions to one of our colleagues that are around during the exercise.**
+**Please don't hesitate to ask questions about the exercises or general questions to one of our colleagues that are around during the hands-on sessions.**
 
 ## Hands-On Day 1 
 
-In this hands-on session, you can chooce from four different exercises: [SampleData link](https://brainvoyager.com/tbv/sampledata/index.html).
+In this hands-on session, you can chooce from four different exercises:
 
-Just download the exercise that you want to run and open the instructions that are part of the archive.
+1. [MotorImageryGSG Exercise](https://sharecenter.brainvoyager.com/s/g8afp6xdtiMk4on)
+
+2. [FacesHpuses Exercise](https://sharecenter.brainvoyager.com/s/yQBDLY5LBa77zxY)
+
+3. [SVMCassifier Exercise](https://sharecenter.brainvoyager.com/s/gWyiQKpnnGRXBgk)
+
+4. [EmoNF 7T Exercise](https://sharecenter.brainvoyager.com/s/KkdBRSLwWeZPnrg)
+
+Just download the exercise that you want to run and open the instructions that are part of the archive. Since the download of the sample data might take some time we advice to do it in advance.
 
 ## Hands-On Day 2
 
-In this hands-on session, you can chooce from two different exercises: [SampleData link](https://brainvoyager.com/tbv/sampledata/index.html).
+In this hands-on session, you can chooce from two different exercises: 
 
-Just download the exercise that you want to run and open the instructions that are part of the archive.
+1. [DataSimulation]()
+2. [TBV&Python]()
+
+Just download the exercise that you want to run and open the instructions that are part of the archive. If you chose the TBV&Python exercise, please follow the instrcution in [this page]() to set up the python environment on your PC.
