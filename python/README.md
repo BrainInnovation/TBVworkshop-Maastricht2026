@@ -21,7 +21,7 @@ jupyter notebook
 ## (Optional) Run example python code 
 
 If you have troubles running the jupyter notebook, we have also provided the same code as simple python files. 
-To run the python code, activate the newly created python environment, navigate to the code folder and run the desired code.
+To run the python code, activate the newly created python environment, navigate to the code folder and run the desired code. The python code contains some embedded instruction to extend the excercises with additional tasks. If you don't have a python editor on your PC, *Sublime Text* might be a lightweight cross-platform solution for you: (https://www.sublimetext.com/). 
 ```
 conda activate TBVworkshop2026
 cd /path_to_code/
