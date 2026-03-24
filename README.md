@@ -24,7 +24,7 @@ In this hands-on session, you can chooce from four different exercises:
 
 4. [EmoNF 7T Exercise](https://sharecenter.brainvoyager.com/s/KkdBRSLwWeZPnrg)
 
-Just download the exercise that you want to run and open the instructions that are part of the archive. Since the download of the sample data might take some time we advice to do it in advance.
+Please download the exercise you intend to complete and open the instructions included in the archive. As downloading the sample data may take some time, we recommend doing this in advance.
 
 ## Hands-On Day 2
 
@@ -34,4 +34,4 @@ In this hands-on session, you can chooce from two different exercises:
    
 3. [TBV&Python Exercise]()
 
-Just download the exercise that you want to run and open the instructions that are part of the archive. If you chose the TBV&Python exercise, please follow the instrcution on [this page](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python) to set up the python environment on your PC.
+Please download the exercise you intend to complete and open the instructions included in the archive. If you chose the TBV&Python exercise, please follow the instruction provided on [this page](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python) to set up the python environment on your PC.
