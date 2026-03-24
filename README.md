@@ -1,7 +1,7 @@
 # Turbo-BrainVoyager Workshop - Maastricht 25-26 March 2026
 
 
-Welcome to the TBV workshop page!<br> Here you will find information about the workshop and useful links to participate in our hands-on sessions.
+Welcome to the TBV workshop page!<br> Here you will find information about the workshop and useful links to participate in our hands-on sessions. The ull workshop programme can be found [here](https://brainvoyager.com/support/tbv-course/).
 
 We will provide the TBV Educational version for the hands-on session on site.
 If you don't have a laptop, please team up with another participant of the workshop or ask one of our colleague if there is still a laptop available.
@@ -30,7 +30,8 @@ Just download the exercise that you want to run and open the instructions that a
 
 In this hands-on session, you can chooce from two different exercises: 
 
-1. [DataSimulation]()
-2. [TBV&Python]()
+1. [DataSimulation Exercise]()
+   
+3. [TBV&Python Exercise]()
 
-Just download the exercise that you want to run and open the instructions that are part of the archive. If you chose the TBV&Python exercise, please follow the instrcution in [this page]() to set up the python environment on your PC.
+Just download the exercise that you want to run and open the instructions that are part of the archive. If you chose the TBV&Python exercise, please follow the instrcution on [this page](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python) to set up the python environment on your PC.
