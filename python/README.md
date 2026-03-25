@@ -5,7 +5,7 @@ This repository includes tutorials to showcase basic usage of the Turbo-BrainVoy
 ## 1. Set up a python environment
 
 To set up a python enviroment to run the example pyhton script, first install miniconda. yYou can find the installer for Windows and MacOS at the following link:
-https://www.anaconda.com/download/success?reg=skipped. After successfuly installation, open the miniconda prompt and create a python environment as follows:
+https://www.anaconda.com/download/success?reg=skipped. After successfuly installation, open the miniconda prompt and create a python environment as follows (adapt the file name for MacOS):
 ```
 cd /path_to_yml_file/
 conda env create -f TBVworkshop2026_Win64_env.yml
