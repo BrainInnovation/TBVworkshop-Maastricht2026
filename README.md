@@ -5,7 +5,7 @@ Welcome to the TBV workshop page!
 
 Here you will find information about the workshop and useful links to participate in our hands-on sessions. The full workshop programme can be found [here](https://brainvoyager.com/support/tbv-course/).
 
-We will provide the TBV Educational version for the hands-on session on site.
+We will provide the TBV Educational version for the hands-on sessions. You can download the TBV EDU version for Windows 64 at [this link](https://sharecenter.brainvoyager.com/s/AJpgzzbt9Cy5nLm).
 If you don't have a laptop, please team up with another participant of the workshop or ask one of our colleague if there is still a laptop available.
 
 Please install Turbo-BrainVoyager EDU to participate actively in the hands-on session!
