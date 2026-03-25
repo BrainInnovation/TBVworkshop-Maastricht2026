@@ -34,6 +34,6 @@ In this hands-on session, you can chooce from two different exercises:
 
 1. [DataSimulation Exercise]()
    
-3. [TBV&Python Exercise]()
+3. [TBV&Python Exercise](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python)
 
 Please download the exercise you intend to complete and open the instructions included in the archive. If you chose the TBV&Python exercise, please follow the instruction provided on [this page](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python) to set up the python environment on your PC.
