@@ -32,7 +32,7 @@ Please download the exercise you intend to complete and open the instructions in
 
 In this hands-on session, you can chooce from two different exercises: 
 
-1. [DataSimulation Exercise]()
+1. [DataSimulation Exercise](https://sharecenter.brainvoyager.com/s/Zijby6qPX3dWD3k)
    
 3. [TBV&Python Exercise](https://github.com/BrainInnovation/TBVworkshop-Maastricht2026/tree/main/python)
 
